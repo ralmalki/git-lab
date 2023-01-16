@@ -18,7 +18,7 @@
 ### Step 3️⃣:
 1. From GitHub
     - Edit the `index.html` file to have your name + your city name
-2. Commit the change on GitHub with the message `<your name> add city from GitHub`
+2. Commit the change on GitHub with the message `<your name> git`
 
 ### Step 4️⃣:
 1. Pull changes from GitHub to your computer
@@ -43,3 +43,8 @@
 2. Mohammed add city from GitHub
 3. Mohammed add readme
 4. ...
+
+
+
+## This is the changes needed
+
